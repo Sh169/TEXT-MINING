@@ -1,0 +1,44 @@
+For Text Mining assignment
+ 
+ ONE:
+1) Extract tweets for any user (try choosing a user who has more tweets)
+2) Perform sentimental analysis on the tweets extracted from the above
+
+ TWO:
+1) Extract reviews of any product from ecommerce website like amazon
+2) Perform emotion mining
+
+API key: 0YbrkXRO0kHhPUKS7KU1lvkGj
+API secret Key: g2E0pXI8LJJHRWBjjO0e7HCmIgzZGbZ1sslPiQ7BNvTCLtX1n6
+
+Bearer token: 
+AAAAAAAAAAAAAAAAAAAAAGnOLQEAAAAAirVGN2Sw1HAr8Zzo3YsI%2BBZiCaI%3DM6jQ96BqPgUzlZGEYa3ATfoxHbFqYGDwphjgdLzjmZCnaI7Pou
+
+copy-dark
+
+
+
+-----------------------------------------------------------------
+For security, we will be hiding these starting 01/12/2021. If something happens, you can always regenerate them.
+
+API key:
+
+0YbrkXRO0kHhPUKS7KU1lvkGj
+
+
+API key secret:
+
+g2E0pXI8LJJHRWBjjO0e7HCmIgzZGbZ1sslPiQ7BNvTCLtX1n6
+
+
+Bearer token:
+
+AAAAAAAAAAAAAAAAAAAAAGnOLQEAAAAAirVGN2Sw1HAr8Zzo3YsI%2BBZiCaI%3DM6jQ96BqPgUzlZGEYa3ATfoxHbFqYGDwphjgdLzjmZCnaI7Pou
+
+Access token:
+
+1346878455552507904-PVcXNXqk1N6o9SEXz6NFHvmycvdHrD
+
+Access token secret:
+
+gW3IuM4Vxy6ivIVMpu5soMbdkty4U8zPbD0fadsLBa0Xe
